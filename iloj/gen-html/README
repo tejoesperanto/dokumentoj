@@ -1,0 +1,7 @@
+Tiu ĉi programo generas HTML-version de iu dokumento.
+
+Uzo:
+	$ node gen-html.js <dokumento>
+
+Ekzemplo:
+	$ node gen-html.js Statuto

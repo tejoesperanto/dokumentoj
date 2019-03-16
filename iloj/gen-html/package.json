@@ -1,0 +1,27 @@
+{
+  "name": "tejodok-gen-html",
+  "version": "1.0.0",
+  "description": "Generas HTMLon surbaze de TEJO-dokumento",
+  "main": "gen-html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejoesperanto/dokumentoj.git"
+  },
+  "keywords": [
+    "tejodok"
+  ],
+  "author": "Mia Nordentoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejoesperanto/dokumentoj/issues"
+  },
+  "homepage": "https://github.com/tejoesperanto/dokumentoj#readme",
+  "dependencies": {
+    "js-yaml": "^3.12.2",
+    "markdown-it": "^8.4.2",
+    "markdown-it-front-matter": "^0.1.2"
+  }
+}

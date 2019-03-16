@@ -5,6 +5,10 @@ Se vi volas proponi amendon al iu dokumento de TEJO, necesas ke Komitatano preze
 
   La dokumentoj estu videblaj kaj kompreneblaj ankaŭ en la interreta fasado de GitHub, eĉ se tio ne estas la ĉefa celo de la dokumentoj. Escepto al tio ĉi estas la uzado de ordigitaj listoj: se la listo enhavas ajnan punkton aŭ subpunkton, kiu uzas ne-arabajn numeralojn, la listo estu farita per `<ol>` uzante la atributon `type` (legu ĉe [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol#attr-type)).
 
+  Eblas aldoni CSS al specifa HTML-versio de iu dokumento kreante dosieron kun la sama nomo kiel la dokumento, sed kun la finaĵo `.css`. Antaŭaldonu al ĉiu elektilo je `#dok-<doknomo>`. Ekzemple:
+
+  	#dok-Statuto ol { ... }
+
 - La dosierujo `/iloj/` enhavas ilojn uzatajn por faciligi, konverti k.s. la dokumentojn en `/dok/`. Ĉiuj iloj estu faritaj en programo uzebla per Linux, MacOS kaj Windows. Por tio ĉi bonas NodeJS kaj Python.
 
 - La dosierujo `/gen/` enhavas generitajn versiojn de la dokumentoj fare de la iloj en `/iloj/`. Ĉiu ŝanĝo al ilo aŭ dokumento kiu ŝanĝas la generitan dosieron devas ĝisdatigi ankaŭ la koncernajn dosierojn en `/gen/`.
