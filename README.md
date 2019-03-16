@@ -9,6 +9,6 @@ Se vi volas proponi amendon al iu dokumento de TEJO, necesas ke Komitatano preze
 Tamen utilas krei fork-on de tiu ĉi deponejo por krei facile superrigardeblan ŝanĝproponon al la Komitato.
 
 ## Pri kopirajto
-Ĉiuj dokumentoj haveblas libere laŭ CC0. Vidu [la permesilon](LICENSE.md).
+Ĉiuj dokumentoj haveblas libere laŭ CC0. [Vidu la permesilon](LICENSE.md).
 
-Ĉiuj programoj kaj iloj haveblas libere laŭ MIT. Vidu [la permesilon](iloj/LICENSE).
+Ĉiuj programoj kaj iloj haveblas libere laŭ MIT. [Vidu la permesilon](iloj/LICENSE).
