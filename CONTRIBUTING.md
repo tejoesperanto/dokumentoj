@@ -21,4 +21,4 @@ Se vi volas proponi amendon al iu dokumento de TEJO, necesas ke Komitatano preze
 
   *ne* estu aldonitaj al tiu ĉi dokumento.
 
-  La indekso enhavas ligilojn al GitHub per kiuj eblas kompari la versiojn. Pro tio ne eblas ĝisdatigi la indekson ĝis la koncerna PR estas akceptita. Tial administranto de la projekto ĉiam respondecas pri ĝisdatigo de la indekso post akcepto de iu PR, kiu postulas ĝisdatigon de la indekso.
+  La indekso enhavas ligilojn al GitHub per kiuj eblas kompari la versiojn. Pro tio ne eblas ĝisdatigi la indekson ĝis la koncerna commit estas jam farita. Tiam eblas preni la haŝon de la commit kaj ĝisdatigi la indekson.
