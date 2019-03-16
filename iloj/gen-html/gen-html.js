@@ -35,7 +35,7 @@ let mdFm = null; // overwritten by markdown-it-front-matter
 const mdHtml = MarkdownIt.render(mdData);
 let htmlData = '';
 if (cssData) {
-	htmlData += `<style>${cssData}</style>\n`;
+	htmlData += `<style>\n${cssData}\n</style>\n`;
 }
 htmlData += `<div id="dok-${docCssSafe}">${mdHtml}</div>`;
 const htmlPath = path.join(gendir, doc + '.html');
