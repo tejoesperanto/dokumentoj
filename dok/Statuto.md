@@ -12,7 +12,7 @@ STATUTO DE TUTMONDA ESPERANTISTA JUNULARA ORGANIZO
 
 **1. Establo**
 
-1. TUTMONDA ESPERANTISTA JUNULARA ORGANIZO (ekde nun en la Statuo: TEJO) estas per tiu ĉi ŝtatuto establita kiel asocio.
+1. TUTMONDA ESPERANTISTA JUNULARA ORGANIZO (ekde nun en la Statuo: TEJO) estas per tiu ĉi statuto establita kiel asocio.
 2. TEJO havas sian sidejon en Rotterdam, Nederlando.
 3. TEJO estas establita por nedifinita daŭro.
 4. TEJO ne estas profitocela organizo.
