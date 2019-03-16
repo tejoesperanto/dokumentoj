@@ -12,13 +12,13 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 - [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20estraranoj.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri elekto de komitatanoj B
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%komitatanoj%20B.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20B.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri elekto de komitatanoj C
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%komitatanoj%20C.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20C.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri Honoraj Membroj kaj Honoraj Prezidantoj
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%2Honoraj%20Membroj%20kaj%20Honoraj%20Prezidantoj.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20Honoraj%20Membroj%20kaj%20Honoraj%20Prezidantoj.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la estraro
 - [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20estraro.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
