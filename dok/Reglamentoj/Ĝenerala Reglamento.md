@@ -59,7 +59,7 @@ La aligitaj kaj asociaj membroj ricevas la samajn membroservojn.
 3. Ordinare, komitatano B estas elektita ĝis la 30-a de aprilo en para jaro kaj oficas ekde la 1-a de junio en tiu jaro ĝis la 31-a de majo en la sekvanta para jaro.
 4. Komitatano B ne estas por difinita kunveno anstataŭigebla.
 
-## 5. Komiatano C
+## 5. Komitatano C
 1. Komitatano C estas elektita per sekreta baloto.
 2. La nombro de elekteblaj komitatanoj C estas 1.
 3. Ordinare, komitatano C estas elektita ĝis la 30-a de aprilo en para jaro kaj oficas ekde la 1-a de junio en tiu jaro ĝis la 31-a de majo en la sekvanta para jaro.
