@@ -6,7 +6,7 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 
 ## Reglamentoj
 ### Ĝenerala Reglamento
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Ĝenerala%20Reglamento.md), valida ekde la 29-a de julio 2016. (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/2fb114a8d1febdca3c7edab6919a683a1d5e03e9/dok/Reglamentoj/Ĝenerala%20Reglamento.md), valida ekde la 29-a de julio 2016. (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri elekto de estraranoj
 - [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20estraranoj.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
