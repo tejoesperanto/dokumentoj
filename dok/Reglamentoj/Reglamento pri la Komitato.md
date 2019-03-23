@@ -91,7 +91,7 @@ En tiu ĉi Reglamento:
 7. Reta voĉdono estas kvoruma se almenaŭ duono de la komitato voĉdonas. Sindetenoj ankaŭ estas voĉdonoj.
 8. Se plejmulto de la partoprenantoj ne sindetenas, tiu el la poro kaj la kontraŭo kiu havas la plimulton venkas. Okaze de egaleco decidas la Prezidanto. Se simpla plejmulto de la voĉdonantoj sindetenas, oni konsideras tion decido ne voĉdoni retpoŝte pri tiu propono.
 
-## 5. Okazo kaj kunvoco de kunveno
+## 5. Okazo kaj kunvoko de kunveno
 1. Ordinara komitatkunveno okazas unu fojon jare; krome, eksterordinaraj komitatkunvenoj okazas laŭnecese.
 2. Ordinara kunveno okazas dum, kaj en la kadro de, la Internacia Junulara Kongreso (IJK). Se la kunvokanto opinias tion utila, ĝi povas komenciĝi maksimume tri tagojn antaŭ la IJK aŭ finiĝi tri tagojn post la IJK.
 3. Kunvokas ordinaran kunvenon la Ĝenerala Sekretario, kiu sendas skriban inviton al ĉiu homo nomumita kiel komitatano por la koncerna oficperiodo, ĉiu anstataŭanto kaj al la Ĝenerala Direktoro, kaj kopie al ĉiu landa kaj faka sekcio almenaŭ 30 tagojn antaŭ la komenco de la kunveno. Kun la invito estas sendata la tiam valida teksto de la Regularo kaj de la reglamentoj.
