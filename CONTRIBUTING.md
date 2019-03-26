@@ -7,7 +7,9 @@ Se vi volas proponi amendon al iu dokumento de TEJO, necesas ke Komitatano preze
 
   Eblas aldoni CSS al specifa HTML-versio de iu dokumento kreante dosieron kun la sama nomo kiel la dokumento, sed kun la finaĵo `.css`. Antaŭaldonu al ĉiu elektilo je `#dok-<doknomo>`. Ekzemple:
 
-  	#dok-Statuto ol { ... }
+  ```css
+  #dok-Statuto ol { ... }
+  ```
 
 - La dosierujo `/iloj/` enhavas ilojn uzatajn por faciligi, konverti k.s. la dokumentojn en `/dok/`. Ĉiuj iloj estu faritaj en programo uzebla per Linux, MacOS kaj Windows. Por tio ĉi bonas NodeJS kaj Python.
 
