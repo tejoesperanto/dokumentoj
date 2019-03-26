@@ -27,7 +27,7 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 - [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20Internacia%20Junulara%20Kongreso.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la Komitato
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/ddd9d5e4fd09567c756209f57a847b0b42d534a4/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
 - [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
