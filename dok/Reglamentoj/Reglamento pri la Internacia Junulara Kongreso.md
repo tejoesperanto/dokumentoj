@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri la Internacia Junulara Kongreso
-version: null
-version_comment: null
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Reglamento pri la Internacia Junulara Kongreso
@@ -20,7 +20,7 @@ La kongreson invitas landa sekcio aŭ, se mankas landa sekcio en la kongresa lan
 		La kongresa kontrakto devas enhavi la jenajn kondiĉojn:
 		<ol type="A">
 			<li>la kongreson organizos kongresa komitato laŭ buĝeto aprobita de TEJO;</li>
-			<li>la kongreso respektos la Statuton kaj regularojn de TEJO;</li>
+			<li>la kongreso respektos la Statuton kaj reglamentojn de TEJO;</li>
 			<li>la kongresanoj kontraktos pri sia partopreno kun la invitanto aŭ la kongresa komitato;</li>
 			<li>la kondiĉoj de la unuopaj kontraktoj de partopreno devos esti aprobitaj de TEJO;</li>
 			<li>la kongreso pagos al TEJO por la kredito de la ĝenerala spezokonto sumon egalan al 3 procentoj de program-, loĝ- kaj manĝkotizoj;</li>

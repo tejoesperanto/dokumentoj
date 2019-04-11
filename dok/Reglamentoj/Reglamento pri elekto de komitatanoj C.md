@@ -1,14 +1,14 @@
 ---
 title: Reglamento pri elekto de komitatanoj C
-version: null
-version_comment: null
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Reglamento pri elekto de komitatanoj C
 ======================================
 
 <ol>
-	<li>La ĝenerala sekretario anoncas al la Junaj Amikoj de Esperanto la la kandidatiĝeblon kiel komitatanoj C kaj invitas kandidatojn. Li aŭ ŝi anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
+	<li>La Ĝenerala Sekretario anoncas al la Junaj Amikoj de Esperanto la la kandidatiĝeblon kiel komitatanoj C kaj invitas kandidatojn. La Ĝenerala Sekretario anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
 	<li>
 		Valida kandidatiĝo konsistu el:
 		<ol type="A">
@@ -19,8 +19,8 @@ Reglamento pri elekto de komitatanoj C
 		</ol>
 	</li>
 	<li>Post la difinita limdato oni kalkulas la nombron de validaj kandidatiĝoj kaj, se venis neniu kandidatiĝo, remalfermas la kandidatiĝperiodon dum kromaj 45 tagoj ĝis kiam venas almenaŭ unu kandidatiĝo.</li>
-	<li>La ĝenerala sekretario aperigas en la oficiala gazeto kaj en mesaĝo al la Junaj Amikoj de Esperanto la nomojn kaj sinprezentojn de la kandidatoj</li>
-	<li>La ĝenerala sekretario en tiu mesaĝo sendas detalajn informojn pri la reta platformo elektita de la Estraro por la reta baloto de komitatanoj C kaj la limdato por voĉdoni kiu devas esti minimume 15 tagojn post apero de la anonco.</li>
+	<li>La Ĝenerala Sekretario aperigas en la oficiala gazeto kaj en mesaĝo al la Junaj Amikoj de Esperanto la nomojn kaj sinprezentojn de la kandidatoj</li>
+	<li>La Ĝenerala Sekretario en tiu mesaĝo sendas detalajn informojn pri la reta platformo elektita de la Estraro por la reta baloto de komitatanoj C kaj la limdato por voĉdoni kiu devas esti minimume 15 tagojn post apero de la anonco.</li>
 	<li>
 		La reta platformo por elekto de Komitatanoj C devas respekti la sekvajn kriteriojn:
 		<ol type="A">

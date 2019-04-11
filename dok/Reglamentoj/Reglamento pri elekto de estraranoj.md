@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri elekto de estraranoj
-version: null
-version_comment: null
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Reglamento pri elekto de estraranoj
@@ -28,13 +28,13 @@ Reglamento pri elekto de estraranoj
 ## 3. Taŭgeco de kandidatoj
 Por decidi pri la taŭgeco de la kandidatoj, estas rekomendite ke la Elekta Komisiono uzu inter aliaj la jenajn konsiderojn:
 
-1. Novaj kandidatoj rajtas kandidatiĝi por ĉiu ajn posteno krom tiu de Prezidanto. Iamaj kaj nunaj Estraranoj, Komitatanoj, Komisiitoj, oficistoj kaj volontuloj dum sume almenaŭ unu plena mandato kalkulita laŭ la tempo de la voĉdono rajtas kandidatiĝi por la posteno de Prezidanto. Escepto al tio validas nur kaze de risko, ke la posteno de Prezidanto restos vaka.
+1. Novaj kandidatoj rajtas kandidatiĝi por ĉiu ajn posteno krom tiu de Prezidanto. Iamaj kaj nunaj Estraranoj, Komitatanoj, Komisiitoj, oficistoj kaj volontuloj dum sume almenaŭ unu plena mandato kalkulita laŭ la tempo de la voĉdono rajtas kandidatiĝi por la posteno de Prezidanto. Escepto al tio validas nur okaze de risko, ke la posteno de Prezidanto restos vaka.
 2. Spertoj de la kandidato.
 3. Kapablo de la kandidato kunlabori en teamo.
 4. Trejnkursoj ĉeestitaj de la kandidato.
 5. Partopreno de la kandidato en almenaŭ unu estrarkunsido.
 6. Pozitive estas se kandidato jam iel (ekzemple kiel komisiito aŭ volontulo) aktivas rekte en TEJO.
-7. Kandidato estu preta iĝi komisiito por kunlabori kun la estrarano kies postenon li aŭ ŝi ŝatus transpreni.
+7. Kandidato estu preta iĝi komisiito por kunlabori kun la estrarano kies postenon la kandidato ŝatus transpreni.
 
 ## 4. Procezo
 En okazo de alelekto por aktuale oficanta Estraro, la procezo estas senprokrasta kaj laŭeble rapida. En okazo de ordinara elekto de nova Estraro la Elekta Komisiono kaj kandidatoj respektas jenajn limdatojn:
@@ -45,6 +45,6 @@ En okazo de alelekto por aktuale oficanta Estraro, la procezo estas senprokrasta
 4. Plej laste la 5-an de julio de la elektojaro la Komisiono sendas al la Komitato raporton pri sia agado, kiu enhavas minimume informojn pri nombro de kandidatoj, kiuj sendis validajn kandidatiĝojn laŭ la punkto 3.
 5. La Komisiono rajtas plu akcepti novajn kandidatiĝojn post la limdato. Informojn pri la risko, ke iu el la postenoj restos vaka kaj pri daŭra akceptado de kandidatiĝoj devas enhavi la raporto menciita en la punkto 4.
 6. Plej laste 15 tagojn antaŭ komenco de la komitatkunveno la Komisiono sendas al la Komitato finan raporton, en kiu ĝi rekomendas al la Komitato kandidatojn al la nova Estraro. La raporto devas minimume enhavi la rekomenditajn kandidatojn kaj proponita(j)n teamo(j)n kaj alkroĉite la kompletajn kandidatiĝojn de ĉiuj kandidatoj kaj informon pri liverodatoj de kandidatiĝoj alvenintaj post la 30-a de junio.
-7. La Komisiono rajtas sendi plian raporton en alia momento, se tio necesas por bone informi la Komitaton, speciale okaze je kandidatiĝoj por postenoj, kiuj riskus resti vakaj aŭ retiritaj kandidatiĝoj.
+7. La Komisiono rajtas sendi plian raporton en alia momento, se tio necesas por bone informi la Komitaton, speciale okaze de kandidatiĝoj por postenoj, kiuj riskus resti vakaj aŭ retiritaj kandidatiĝoj.
 8. La laboro de la Komisiono finiĝas en la momento de elektiĝo de la nova Estraro.
 9. Se la Elekta Komisiono malfruas pri io el la menciitaj limdatoj, la Estraro esploras la kialojn kaj povas laŭbezone proponi al la Komitato elekton de novaj membroj por la Elekta Komisiono.

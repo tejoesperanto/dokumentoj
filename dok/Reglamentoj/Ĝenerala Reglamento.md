@@ -1,7 +1,7 @@
 ---
 title: Ĝenerala Reglamento de Tutmonda Esperantista Junulara Organizo
-version: 2016-07-19
-version_comment: IJK 2016 en Vroclavo
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Ĝenerala Reglamento de Tutmonda Esperantista Junulara Organizo
@@ -12,9 +12,9 @@ La aligitaj kaj asociaj membroj ricevas la samajn membroservojn.
 
 ## 2. Komitatanoj
 1. Komitatano kaj kandidato por komitataneco devas esti individua membro de TEJO.
-2. Komitatano estas konsiderata kiel demisiinta, se li aŭ ŝi ne estas individua membro de TEJO tiam, kiam la Komitato kontrolas la konsisto de la ĉefaj organoj laŭ artikolo 8.
+2. Komitatano estas konsiderata kiel demisiinta, se tiu homo ne estas individua membro de TEJO tiam, kiam la Komitato kontrolas la konsisto de la ĉefaj organoj laŭ artikolo 8.
 3. Komitatano kiu ne partoprenas 3 sinsekvajn retajn voĉdonojn estas konsiderata kiel demisiinta.
-4. Komitatano kiu nek partoprenas 2 sinsekvajn retajn voĉdonojn nek komitatkunsidon (senanstataŭe) ene de la mandato estas konsiderata kiel demisiinta.
+4. Komitatano kiu nek partoprenas 2 sinsekvajn retajn voĉdonojn nek komitatkunvenon (senanstataŭe) ene de la mandato estas konsiderata kiel demisiinta.
 5. Oni ne konsideras kiel sinsekvajn voĉdonojn tiujn, kiuj finiĝas en la sama tago laŭ la nederlanda horzono.
 6. Salajrata oficisto de TEJO aŭ volontulo kun ĉioentena rekompenco ne rajtas esti Komitatano.
 
@@ -74,38 +74,62 @@ La aligitaj kaj asociaj membroj ricevas la samajn membroservojn.
 ## 7. Estraranoj
 1. Estrarano estas elektita per sekreta baloto.
 2. Por esti elektita al la Estraro, kandidato devas esti ne pli ol 35-jaraĝa la 31-an de aŭgusto en la jaro kiam finiĝas la mandato.
-3. Ordinare, estrarano estas elektita okaze de la ordinara kunveno de la Komitato ĉiun jaron kaj oficas ekde la 1-a de septembro ĝis la 31-a de aŭgusto en la sekvanta jaro. La periodo inter la elektiĝo kaj la ekofico de nova estraro estu laŭeble profite uzata por ofic- kaj tasktransdonado inter la ŝanĝiĝontaj estraroj. La eksiĝonta estraro en ĉi tiu periodo konsultu la novan estraron. Kaze je malsufiĉa aktivo de la Estraro, la Komitato rajtas, antaŭ la elekto de la nova Estraro, decidi por tuja enoficiĝo de la nova Estraro.
+3. Ordinare, estrarano estas elektita okaze de la ordinara kunveno de la Komitato ĉiun jaron kaj oficas ekde la 1-a de septembro en tiu jaro ĝis la 31-a de aŭgusto en la sekvanta jaro. La periodo inter la elektiĝo kaj la ekofico de nova estraro estu laŭeble profite uzata por ofic- kaj tasktransdonado inter la ŝanĝiĝontaj estraroj. La eksiĝonta estraro en ĉi tiu periodo konsultu la novan estraron. Okaze de malsufiĉa aktivo de la Estraro, la Komitato rajtas, antaŭ la elekto de la nova Estraro, decidi por tuja enoficiĝo de la nova Estraro.
 4. Estrarano, kiu ne estas elektita kiel la Prezidanto, la Ĝenerala Sekretario aŭ la Kasisto, povas esti elektita kiel Vicprezidanto. Ĉiu estrarano rajtas esti elektita por maksimume unu ofico kaj ne rajtas esti elektita al la sama ofico dum pli ol kvar sinsekvaj mandatoj.
 5. Estrarano ne estas por difinita kunveno anstataŭigebla.
 
-## 8. Kontrolo
+## 8. Patronoj
+<ol>
+	<li>Ĉiu individuo aŭ organizo rajtas fariĝi patrono de TEJO.</li>
+	<li>Por fariĝi patrono necesas pagi jaran sumon difinita de la Komitato.</li>
+	<li>
+		La patronoj ordinare rajtas:
+		<ol type="a">
+			<li>Ricevi paperan eldonon de Kontakto kaj de eventualaj aliaj periodaĵoj de TEJO.</li>
+			<li>Partopreni patronan akcepton dum la Universala Kongreso.</li>
+			<li>Ricevi regule, tamen almenaŭ unufoje dum la jaro, alpatronan raporton de la TEJO-Estraro.</li>
+		</ol>
+	</li>
+	<li>
+		Individuoj, kiuj fariĝas patronoj de TEJO, ĝuas ĉiujn rajtojn kaj servojn, kiujn TEJO donas al siaj individuaj membroj, kun jenaj esceptoj:
+		<ol type="a">
+			<li>Voĉdonrajto por komitatanoj B.</li>
+			<li>Rajto esti nomumita aŭ elektita kiel komitatano.</li>
+			<li>Rajto anstataŭi komitatanon.</li>
+		</ol>
+		En aliaj okazoj la esprimo “individua membro” ordinare signifas “individua membro aŭ patrono de TEJO”.
+	</li>
+	<li>Okaze ke la patrono estas organizo, ĝi rajtas indiki kontaktpersonon ĉe TEJO kaj nomumi unu delegiton por partopreni la patronan akcepton dum la Universala Kongreso.</li>
+</ol>
+
+## 9. Kontrolo
 La Komitato kontrolas la konsiston de la ĉefaj organoj okaze de ĉiu kunveno de la Komitato.
 
-## 9. Aktoj
+## 10. Aktoj
 1. La aktoj de TEJO estas la komitataj reglamentoj kaj rezolucioj kaj la estraraj decidoj.
-2. Akto estas senvalida tiom, kiom ĝi kontraŭas la Statuton aŭ regularon de TEJO aŭ de organizo kiun TEJO sekcias aŭ membras.
+2. Akto estas senvalida tiom, kiom ĝi kontraŭas la Statuton aŭ reglamentojn de TEJO aŭ de organizo kiun TEJO sekcias aŭ membras.
 3. Estrara decido estas senvalida tiom, kiom ĝi kontraŭas komitatan reglamenton aŭ rezolucion.
 4. La Komitato ne povas delegi la faradon de komitata reglamento aŭ rezolucio.
 5. La Estraro povas delegi la faradon de estrara decido kaj ankaŭ rajtigi pluan delegadon.
 6. Reguloj por la funkciado aŭ agado de TEJO, suplementaj al ĝia Statuto kaj al Statuto kaj regularoj de UEA, estas fareblaj nur per komitata reglamento.
 
-## 10. Elpaŝoj
+## 11. Elpaŝoj
 Ĉiu elpaŝo en la nomo de TEJO devas esti bazita sur rajtigo troviĝanta en Statuta aŭ regulara preskribo de TEJO aŭ en akto de TEJO.
 
-## 11. Komisionoj
+## 12. Komisionoj
 1. La Estraro povas starigi komisionon por labori pri iu agadkampo de TEJO.
 2. Ĉiu komisiono havas respondeculon ene de la Estraro.
 3. Ĉiun komisionon kunordigas komisiito elektata de la Estraro. La Komitato povas, laŭ peto de almenaŭ du membroj de la komisiono, malvalidigi la elekton kaj taski al la Estraro elekton de alia komisiito.
 4. Komisiitoj devas esti rekonfirmitaj de la Estraro okaze de ĉiu kunveno de la Komitato.
 5. La komisiito regule raportas al la Komitato pri la laboroj de la komisiono.
-6. Ĉiuj Individuaj Membroj de TEJO rajtas membriĝi en la komisionoj, pere de la skriba peto al la koncerna komisiito.
-7. Neindividuaj membroj kaj nemembroj de TEJO, kiuj pro speciala kompetento povas grave kontribui al la laboro de la komisiono rajtas membriĝi en la komisionoj post la aprobo de la koncerna komisiito aŭ de la Estraro.
+6. Ĉiuj Individuaj Membroj de TEJO rajtas membriĝi en la komisionoj, pere de skriba peto al la koncerna komisiito.
+7. Neindividuaj membroj kaj nemembroj de TEJO, kiuj pro speciala kompetento povas grave kontribui al la laboro de la komisiono, rajtas membriĝi en la komisionoj post la aprobo de la koncerna komisiito aŭ de la Estraro.
 8. Komitatanoj je la elektiĝo rajtas elekti en kiuj komisionoj membri, sed ĉiu komitatano devas membri en almenaŭ unu komisiono.
 9. Membroj de la komisionoj devas esti rekonfirmitaj de la komisiito aŭ de la Estraro unu monaton antaŭ ĉiu kunveno de la Komitato.
 10. Komisionoj laŭeble kunvenas okaze de ĉiu kunveno de la Komitato.
 
-## 12. Interpretado
+## 13. Interpretado
 1. Pri malklaraĵoj aŭ nekonsideritaj aferoj validas laŭvice la nederlanda juro, la Statuto, la Regularo pri Kunlaboro de UEA kaj TEJO, la Ĝenerala Reglamento kaj la aliaj reglamentoj.
 2. Neniu dokumento povas kontraŭi supervalidajn dokumentojn laŭ la vico menciita en punkto 1.
-3. La Komitato povas modifi la reglamentojn de TEJO per plejmulto de la voĉoj. La Komitato povas aprobi amendon nur, se almenaŭ unu semajnon antaŭ la voĉdono la teksto de la amendpropono estis sendita al la Komitato, krom se almenaŭ du-triona plejmulto voĉdonas por la amendo. Amendoj al amendproponoj ne postulas du-trionan plimulton.
+3. La Komitato povas modifi la reglamentojn de TEJO per plejmulto de la voĉoj. La Komitato povas aprobi amendon nur, se almenaŭ unu semajnon antaŭ la voĉdono la teksto de la amendpropono estis sendita al la Komitato, krom se almenaŭ dutriona plejmulto voĉdonas por la amendo. Amendoj al amendproponoj ne postulas dutrionan plimulton.
 4. Pri interpretaj klarigoj de la supraj juraj fontoj oni apelaciu al la Ĝenerala Sekretario de TEJO, kiu respondecas pri la interpretado.

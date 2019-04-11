@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
-version: null
-version_comment: null
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
@@ -27,7 +27,7 @@ Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
 ## 4. TEJO-trejnistoj
 <ol>
 	<li>La TEJO-trejnistaro konsistas el la TEJO-trejnistoj.</li>
-	<li>Tiuj, kiuj sekvis trejnprogramon de trejnado por trejnistoj organizata de TEJO estas konsiderataj TEJO-trejnistoj.</li>
+	<li>Tiuj, kiuj sekvis trejnprogramon de trejnado por trejnistoj organizatan de TEJO estas konsiderataj TEJO-trejnistoj.</li>
 	<li>Rajtas aliĝi al la TEJO-trejnistaro tiu, kiu partoprenis trejnadon por trejnistoj organizatan de alia instanco agnoskata de TEJO kaj regas Esperanton je taŭga nivelo. Pri la agnosko decidas la komisiito pri Aktivula Trejnado.</li>
 	<li>
 		Rajtas aliĝi al la TEJO-trejnistaro aliaj homoj, kondiĉe ke ili plenumu la sekvajn kondiĉojn:
@@ -57,18 +57,18 @@ Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
 	<li>TEJO-trejnisto, kiu ne estis aktiva dum almenaŭ unu jaro, povas reaktiviĝi liverante 3-horan TEJO-trejnadon kun du aliaj TEJO-trejnistoj kiel observantoj, se ili donas pozitivan retrokuplon.</li>
 	<li>Estas konsiderataj kiel komencanta TEJO-trejnisto de TEJO tiuj, kiuj liveris malpli ol 8 horojn da trejnado.</li>
 	<li>Estas konsiderataj kiel ora TEJO-trejnisto de TEJO tiuj, kiuj liveris almenaŭ 50 horojn da trejnado.</li>
-	<li>La komisiito pri aktivula trejnado rajtas eksigi TEJO-trejniston se tiu, kadre de sia agado kiel TEJO-trejnisto, intence agas kontraŭ la celoj de TEJO, malplenumas la esencajn kondiĉojn por agado en ĝi aŭ kaŭzas eksterordinaran damaĝon al TEJO aŭ al aliaj trejnistoj. Eksigito rajtas apelacii al la Estraro kaj, kaze de konfirmo de la decido, al la Komitato de TEJO.</li>
+	<li>La komisiito pri aktivula trejnado rajtas eksigi TEJO-trejniston se tiu, kadre de sia agado kiel TEJO-trejnisto, intence agas kontraŭ la celoj de TEJO, malplenumas la esencajn kondiĉojn por agado en ĝi aŭ kaŭzas eksterordinaran damaĝon al TEJO aŭ al aliaj trejnistoj. Eksigito rajtas apelacii al la Estraro kaj, okaze de konfirmo de la decido, al la Komitato de TEJO.</li>
 </ol>
 
 ## 5. Gvidado
-1. )La Estraro de TEJO elektas el siaj membroj respondeculon pri aktivula trejnado, kiu ankaŭ respondecas pri la trejnistaro.
+1. La Estraro de TEJO elektas el siaj membroj respondeculon pri aktivula trejnado, kiu ankaŭ respondecas pri la trejnistaro.
 2. La Estraro de TEJO elektas el la aktivaj TEJO-trejnistoj unu aŭ plurajn komisiitojn pri Aktivula Trejnado, kiu(j) gvidas la TEJO-trejnistaron. Se estas pluraj komisiitoj, oni pludifinas specifajn agadkampojn. La komisiitoj pri Aktivula Trejnado estas komune respondecaj pri la decidoj asignitaj al la komisiito pri la Aktivula Trejnado.
 3. La Komitato rajtas, laŭ peto de almenaŭ du aktivaj TEJO-trejnistoj, malvalidigi la elekton kaj taski al la Estraro elekton de alia komisiito.
 4. Dum la posteno de komisiito pri Aktivula Trejnado vakas, la respondeca estrarano gvidas la TEJO-trejnistaron.
 
 ## 6. Komunikado
 1. La komisiito pri aktivula trejnado zorgas elekti maksimume du oficialajn komunikkanalojn de la trejnistaro.
-2. La komisiito pri aktivula trejnado organizas regule telekomunikajn kunsidojn kaj rekontiĝojn por TEJO-trejnistoj.
+2. La komisiito pri aktivula trejnado organizas regule telekomunikajn kunsidojn kaj renkontiĝojn por TEJO-trejnistoj.
 3. En ĉiu evento, en kiu ĉeestas almenaŭ kvarono de la aktivaj trejnistoj de TEJO, oni laŭeble organizu kunsidon de la TEJO-trejnistaro.
 
 ## 7. Financoj
@@ -80,5 +80,5 @@ Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
 
 ## 8. Ŝanĝoj
 1. La Komitato de TEJO rajtas amendi ĉi tiun reglamenton.
-2. Ordinare la TEJO-trejnistaro estas konsultita antaŭ amendi la reglamenton
+2. Ordinare la TEJO-trejnistaro estas konsultita antaŭ ol amendi la reglamenton.
 3. Se la TEJO-trejnistaro volas doni al si alian organizan formon, ĝi bezonas aprobon de la Komitato por daŭre uzi la nomon TEJO. Tiukaze la Trejnista Fonduso restas je dispono de la TEJO-trejnistaro.

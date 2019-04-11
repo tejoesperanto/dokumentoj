@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri elekto de komitatanoj B
-version: null
-version_comment: null
+version: 2019-04-10
+version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
 ---
 
 Reglamento pri elekto de komitatanoj B
@@ -9,7 +9,7 @@ Reglamento pri elekto de komitatanoj B
 
 <ol>
 	<li>Pri la nombro de elekteblaj komitatanoj B validas la pli alta el la membrocifero je la komenco de la elektoproceduro kaj la membrocifero je la 31-a de decembro de la antaŭa jaro.</li>
-	<li>La ĝenerala sekretario anoncas en la oficiala gazeto la nombron de elekteblaj komitatanoj B kaj invitas kandidatojn. Li aŭ ŝi anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj en la Centra Oficejo, kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
+	<li>La Ĝenerala Sekretario anoncas en la oficiala gazeto la nombron de elekteblaj komitatanoj B kaj invitas kandidatojn. La Ĝenerala Sekretario anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj en la Centra Oficejo, kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
 	<li>
 		Valida kandidatiĝo konsistu el:
 		<ol type="A">
@@ -19,7 +19,7 @@ Reglamento pri elekto de komitatanoj B
 			<li>Subtenleteroj aŭ subtenaj subskriboj de minimume 5 individuaj membroj el minimume 2 landoj.</li>
 		</ol>
 	</li>
-	<li>Post la difinita limdato oni kalkulas la nombron de validaj kandidatiĝoj. La ĝenerala sekretario aperigas en la oficiala gazeto la nomojn kaj sinprezentojn de la kandidatoj.</li>
+	<li>Post la difinita limdato oni kalkulas la nombron de validaj kandidatiĝoj. La Ĝenerala Sekretario aperigas en la oficiala gazeto la nomojn kaj sinprezentojn de la kandidatoj.</li>
 	<li>Komitatanoj B estas elektataj per reta voĉdono. Gvidas retan voĉdonadon la Ĝenerala Sekretario.</li>
 	<li>
 		La Estraro difinas la teknologion uzatan por voĉdono de Komitatanoj B kiu respektu la sekvajn kriteriojn:
@@ -37,5 +37,5 @@ Reglamento pri elekto de komitatanoj B
 	<li>Ne estas necesa ajna kvorumo.</li>
 	<li>Tiuj kandidatoj, kiuj ricevas plej multe da voĉoj, estas elektitaj. En okazo de voĉegaleco decidas, se necese, loto. Oni informas pri la rezulto en la oficiala gazeto.</li>
 	<li>Okaze ke la nombro da elektitaj kandidatoj estas malpli alta ol la nombro da elekteblaj kandidatoj laŭ la artikolo 4.2 de la Ĝenerala Reglamento, okazu nova elekto laŭ la artikolo 2 de ĉi tiu reglamento. La anonco pri la nova elekto devas aperi ene de 90 tagoj ekde la elekto de la anonco de la rezultoj de la antaŭa elekto.</li>
-	<li>Okaze de morto, grava malsano, demisio, perdo de komitataneco aŭ sanĝo de komitataneco de Komitatano B, okazu nova elekto laŭ la artikolo 2 de ĉi tiu reglamento. La anonco pri la nova elekto devas aperi ene de 60 tagoj ekde la ekskomitataniĝo, krom se estas malfermita kandidatiĝprocezo laŭ la artikolo 13 kaj eventuale plilongiĝos la anoncperiodo je minimume 60 kromaj tagoj.</li>
+	<li>Okaze de morto, grava malsano, demisio, perdo de komitataneco aŭ ŝanĝo de komitataneco de Komitatano B, okazu nova elekto laŭ la artikolo 2 de ĉi tiu reglamento. La anonco pri la nova elekto devas aperi ene de 60 tagoj ekde la ekskomitataniĝo, krom se estas malfermita kandidatiĝprocezo laŭ la artikolo 13 kaj eventuale plilongiĝos la anoncperiodo je minimume 60 kromaj tagoj.</li>
 </ol>
