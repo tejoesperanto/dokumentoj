@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri elekto de komitatanoj B
-version: 2019-04-10
-version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
+version: 2019-05-25
+version_comment: Akceptita post reta voĉdono pri la Reglamento pri voĉdonadoj
 ---
 
 Reglamento pri elekto de komitatanoj B
@@ -35,7 +35,7 @@ Reglamento pri elekto de komitatanoj B
 	<li>Rajtas voĉdoni la individuaj membroj en la jaro, kiam la elektoproceduro komenciĝis kaj la individuaj membroj en la jaro kiam ĝi finiĝas.</li>
 	<li>La balotado daŭras 15 tagojn. La Estraro anoncu la rezulton plej malfrue 3 tagojn post la fino de la balotado.</li>
 	<li>Ne estas necesa ajna kvorumo.</li>
-	<li>Tiuj kandidatoj, kiuj ricevas plej multe da voĉoj, estas elektitaj. En okazo de voĉegaleco decidas, se necese, loto. Oni informas pri la rezulto en la oficiala gazeto.</li>
+	<li>La voĉdono sekvas la proceduron en artikolo 3 de la Reglamento pri voĉdonadoj. Oni informas pri la rezulto en la oficiala gazeto.</li>
 	<li>Okaze ke la nombro da elektitaj kandidatoj estas malpli alta ol la nombro da elekteblaj kandidatoj laŭ la artikolo 4.2 de la Ĝenerala Reglamento, okazu nova elekto laŭ la artikolo 2 de ĉi tiu reglamento. La anonco pri la nova elekto devas aperi ene de 90 tagoj ekde la elekto de la anonco de la rezultoj de la antaŭa elekto.</li>
 	<li>Okaze de morto, grava malsano, demisio, perdo de komitataneco aŭ ŝanĝo de komitataneco de Komitatano B, okazu nova elekto laŭ la artikolo 2 de ĉi tiu reglamento. La anonco pri la nova elekto devas aperi ene de 60 tagoj ekde la ekskomitataniĝo, krom se estas malfermita kandidatiĝprocezo laŭ la artikolo 13 kaj eventuale plilongiĝos la anoncperiodo je minimume 60 kromaj tagoj.</li>
 </ol>

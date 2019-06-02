@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri la Komitato
-version: 2019-04-10
-version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
+version: 2019-05-25
+version_comment: Akceptita post reta voĉdono pri la Reglamento pri voĉdonadoj
 ---
 
 Reglamento pri la Komitato
@@ -40,7 +40,7 @@ En tiu ĉi Reglamento:
 		<ol type="A">
 			<li>“Plimulton” havas tiu, kiun elektis pli da partoprenantoj ol elektis iun ajn unuopan alian eblecon;</li>
 			<li>“Plejmulton” havas tiu, kiun elektas pli ol duono de la partoprenantoj;</li>
-			<li>“Dutrionan plimulton” havas tiu, kiun elektas pli ol du trionoj de la partoprenantoj.</li>
+			<li>“Dutrionan plimulton” havas tiu, kiun elektas almenaŭ du trionoj de la partoprenantoj.</li>
 		</ol>
 	</li>
 	<li>“Reglamento” signifas tiun ĉi Reglamenton, nome la Reglamenton pri la Komitato de la Organizo.</li>
@@ -89,7 +89,7 @@ En tiu ĉi Reglamento:
 5. La proceduro komenciĝas per la ricevo de la propono fare de la Ĝenerala Sekretario. Plej malfrue unu semajnon post la ricevo de la propono, la Ĝenerala Sekretario ekigas debatan fazon, kiu daŭras minimume sep tagojn, per reta informo al la komitatanoj. La Estraro rajtas plilongigi la debatan fazon okaze de vigla debatado. Se en la debata fazo aperas proponoj modifi la proponitan tekston, la mastrumanto de la debato voĉdonigas tiujn proponojn.
 6. La voĉdona fazo daŭras 9 tagojn. La Estraro anoncu la rezulton plej malfrue 3 tagojn post la fino de la balotado.
 7. Reta voĉdono estas kvoruma se almenaŭ duono de la komitato voĉdonas. Sindetenoj ankaŭ estas voĉdonoj.
-8. Se plejmulto de la partoprenantoj ne sindetenas, tiu el la poro kaj la kontraŭo kiu havas la plimulton venkas. Okaze de egaleco decidas la Prezidanto. Se simpla plejmulto de la voĉdonantoj sindetenas, oni konsideras tion decido ne voĉdoni retpoŝte pri tiu propono.
+8. Se la voĉdono estas senrezulta laŭ la Reglamento pri voĉdonadoj, oni konsideros tion decido ne voĉdoni rete pri tiu propono.
 
 ## 5. Okazo kaj kunvoko de kunveno
 1. Ordinara komitatkunveno okazas unu fojon jare; krome, eksterordinaraj komitatkunvenoj okazas laŭnecese.
@@ -102,13 +102,13 @@ En tiu ĉi Reglamento:
 1. Ĉiu komitatano povas ĉeesti, paroli kaj voĉdoni en ĉiu kunveno de la Komitato.
 2. Ĉiu membro, Honora Membro, Honora Prezidanto, Patrono, komisionano kaj komisiito de la Organizo povas ĉeesti kaj paroli en ĉiu kunveno de la Komitato. La Komitato povas tamen decidi ke iu(j) aŭ ĉiuj el ĉi tiuj ne povas paroli.
 3. Ĉiu homo ne jam aludita povas ĉeesti, sed ne povas paroli, dum ĉiu kunveno, se la Komitato ne decidas kontraŭ ties ĉeesto. La Komitato tamen povas decidi ke iu(j) aŭ ĉiuj el tiuj ĉi povas paroli.
-4. La artikoloj 3.5, 12.2 kaj 14.3 de la Reglamento ne kontraŭas tiun ĉi artikolon.
+4. La artikoloj 3.5 kaj 12.2 de la Reglamento ne kontraŭas tiun ĉi artikolon.
 
 ## 7. Dumkunvenaj labororganoj
 1. La dumkunvenaj labororganoj de la Komitato estas la Propona Komisiono kaj la Voĉdona Komisiono. Ĉiu labororgano havas almenaŭ du membrojn.
 2. Por ĉiu labororgano la Kunsidestro surloke petas kandidatiĝojn, kaj la komitato grupe akceptas aŭ malakceptas la kandidatojn, krom se du komitatanoj postulas sekretan voĉdonon laŭ artikolo 14 de la Reglamento pri la Komitato.
 3. La Propona Komisiono laŭpete helpas komitatanojn pretigi proponojn por la Komitato. Antaŭ la elektoj ĝi ankaŭ prezentas al la Komitato la nomojn de ĉiuj kandidatoj. La Komisiono povas rekomendi kandidatojn kiuj, laŭ la takso de la Komisiono, bone plenumus la respondecojn de la koncernaj oficoj se ili estus elektitaj. Membroj de la Komisiono ne kandidatas.
-4. La Voĉdona Komisiono kontrolas la komitatanecon de ĉiu homo, kiu deziras partopreni la kunvenon kiel komitatano, kontrolas la kvorumon kaj laŭnecese nombras voĉojn dum la kunveno kaj raportas al la Komitato. Membroj de la Komisiono ne kandidatas.
+4. La Voĉdona Komisiono kontrolas la komitatanecon de ĉiu homo, kiu deziras partopreni la kunvenon kiel komitatano, kontrolas la kvorumon kaj laŭnecese nombras, aŭ nombrigas al cifereca sistemo, voĉojn dum la kunveno kaj raportas al la Komitato. Membroj de la Komisiono ne kandidatas.
 
 ## 8. Kvorumo
 1. Kunveno estas kvoruma kaj decidopova kiam ĝin partoprenas almenaŭ triono de la komitatanoj.
@@ -150,11 +150,13 @@ En tiu ĉi Reglamento:
 	<li>Se ne prezentiĝis specifa propono pri iu tagordero, komitatano povas paroli ĝenerale pri tiu tagordero, aŭ povas prezenti specifan proponon rilate ĝin.</li>
 	<li>Se prezentiĝis specifa propono pri iu tagordero, komitatano povas paroli pri tiu propono aŭ povas proponi amendi ĝin.</li>
 	<li>Kiam neniu komitatano deziras plu paroli pri iu propono aŭ amendo-propono, la Kunsidestro fermas la diskutadon pri tiu, kaj voĉdonigas la Komitaton.</li>
+	<li>La Kunsidestro rajtas grupigi proponojn en unu voĉdonadon laŭ artikolo 2 de la Reglamento pri voĉdonadoj.</li>
 	<li>
 		Malgraŭ la ceteraj punktoj de artikolo 11 de la Reglamento, komitatano rajtas fari unu el la jenaj proceduraj proponoj (kiuj estas tiuj voĉdonendaj sen diskuto) kiam ajn dum la konsido, akirinte parolpermeson de la Kunsidestro:
 		<ol type="A">
 			<li>Tuj voĉdoni pri la propono diskutata;</li>
 			<li>Tuj voĉdoni pri la amend-propono diskutata;</li>
+			<li>Grupigi proponojn en unu kompara voĉdono laŭ artikolo 2 de la Reglamento pri voĉdonadoj, aŭ malfari tian decidon de la Kunsidestro;</li>
 			<li>Paŭzi dum dek minutoj;</li>
 			<li>Fermi la diskutadon sen voĉdono kaj ektrakti la venontan tagorderon;</li>
 			<li>Okazigi retan voĉdonon laŭ artikolo 4 de la Reglamento.</li>
@@ -165,63 +167,40 @@ En tiu ĉi Reglamento:
 ## 12. Voĉdono en kunveno
 <ol>
 	<li>Post fermo de la diskuto pri iu propono, oni voĉdonas pri tiu.</li>
-	<li>Gvidas la voĉdonon la Kunsidestro. Krom laŭ la proceduro priskribita en artikolo 12.4 de la Reglamento, la Kunsidestro ne rajtas voĉdoni. La Voĉdona Komsiono povas deklari, ke estas evidenta plimulto pore aŭ kontraŭe, krom se iu ajn partoprenanto kontraŭas tion.</li>
-	<li>Pri ĉiu propono partoprenanto aŭ voĉdonas aŭ sindetenas. La Voĉdona Komisiono nombras kiom da partoprenantoj voĉdonas por, kaj kiom voĉdonas kontraŭ. La protokolanto kalkulas kiom da partoprenantoj sindetenas.</li>
-	<li>Se plejmulto de la partoprenantoj ne sindetenas, tiu el la poro kaj la kontraŭo kiu havas la plimulton venkas. Okaze de egaleco, decidas la Kunsidestro.</li>
+	<li>Gvidas la voĉdonon la Kunsidestro. Krom laŭ la proceduro priskribita en artikolo 5 de la Reglamento pri voĉdonadoj, la Kunsidestro ne rajtas voĉdoni. La Voĉdona Komsiono povas deklari, ke estas evidenta plimulto pore aŭ kontraŭe, krom se iu ajn partoprenanto kontraŭas tion.</li>
 	<li>
-		Se plejmulto de la partoprenantoj sindetenas:
+		Se la voĉdonado estas senrezulta:
 		<ol type="A">
 			<li>Se temas pri la unua voĉdono pri tiu propono, aŭ pri decido nepre farenda pro priskribo de la Statuto aŭ reglamentoj, oni remalfermas la diskuton pri tiu propono kaj, kiam tiu diskuto estas finita, voĉdonas plian fojon. </li>
 			<li>Se ne temas pri la unua voĉdono de la Komitato pri tiu propono, oni konsideras tion decido ne voĉdoni pri tiu propono.</li>
 		</ol>
 	</li>
-	<li>Krom laŭ la proceduro priskribita en artikolo 12.5 de la Reglamento, oni voĉdonas nur unu fojon pri iu propono dum unu kunveno.</li>
-	<li>En artikolo 12 de la Reglamento, “propono” signifas ankaŭ amendo-proponojn.</li>
+	<li>Krom laŭ la proceduro priskribita en artikolo 12.3 de la Reglamento, oni voĉdonas nur unu fojon pri iu propono dum unu kunveno.</li>
 </ol>
 
 ## 13. Sekreta voĉdono
-1. Ĉiu voĉdono pri elekto de estrarano, komitatanoj Ĉ, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 14 de la Reglamento.
+1. Ĉiu voĉdono pri nombro da elekteblaj kandidatoj, elekto de estrarano, komitatanoj Ĉ, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne pri membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj.
 2. Sekreta voĉdono okazas ankaŭ por decido pri Honora Membro, Honora Prezidanto, akcepto aŭ eksigo de landa aŭ faka sekcio kaj krome kiam ajn du komitatanoj tion postulas. Tiam sekreta voĉdono okazas laŭ la proceduro priskribita en la artikolo 13 de la Reglamento pri la Komitato.
-3. Okaze de sekreta voĉdono, gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono.
+3. Okaze de sekreta voĉdono, gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono. Ĝi zorgas, ke ĉiu partoprenanto voĉdonas per la sama metodo, kaj ke faritaj voĉdonoj ne estas poste ligeblaj al partoprenantoj.
 
 ## 14. Elektoj
 <ol>
-	<li>Ĉiu elekto por la oficoj menciitaj en artikolo 13.1 de la Reglamento okazas laŭ la proceduro priskribita en artikolo 14 de la Reglamento.</li>
-	<li>Gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono.</li>
-	<li>Krom laŭ la proceduro priskribita en artikoloj 14.7.D kaj 14.8.E kaj 14.0.E de la Reglamento, la Kunsidestro ne rajtas voĉdoni.</li>
 	<li>La tenantoj de la oficoj en la Estraro de TEJO, nome la Prezidanto, la Vicprezidanto(j), la Ĝenerala Sekretario kaj la Kasisto, devas esti elektitaj al specifa ofico. Tio signifas, ke devas okazi aparta elekto por ĉiu el tiuj oficoj. Oni voĉdonas unue por la Prezidanto, due por la Kasisto, trie por la Ĝenerala Sekretario kaj kvare por la Vicprezidanto(j).</li>
-	<li>Kiam la nombro de elekteblaj kandidatoj ne estas priskribita de la Statuto aŭ reglamentoj, la Komitato devas unue decidi kiom da estraranoj aŭ ofico-tenantoj ĝi maksimume elektos, antaŭ ol ĝi elektas. Pro la proceduro priskribita en artikolo 14.7 de la Reglamento, povas esti elektitaj malpli da estraranoj aŭ ofico-tenantoj ol la maksimumo decidita de la Komitato, sed ne povas esti elektitaj pli da estraranoj aŭ ofico-tenantoj ol tiu maksimumo.</li>
-	<li>En artikoloj 14.7 kaj 14.8 de la Reglamento la simbolo “m” signifas la maksimuman nombron de elekteblaj kandidatoj, kaj la simbolo “2m” signifas duoblon de la maksimuma nombro de elekteblaj kandidatoj.</li>
+	<li>Kiam la nombro de elekteblaj kandidatoj ne estas priskribita de la Statuto aŭ reglamentoj, la Komitato devas unue decidi kiom da estraranoj aŭ ofico-tenantoj ĝi maksimume elektos, antaŭ ol ĝi elektas. Pro la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj, povas esti elektitaj malpli da estraranoj aŭ ofico-tenantoj ol la maksimumo decidita de la Komitato, sed ne povas esti elektitaj pli da estraranoj aŭ ofico-tenantoj ol tiu maksimumo.</li>
 	<li>
-		Se ne estas pli ol “2m” kandidatoj:
-		<ol type="A">
-			<li>Oni faras balotilon kun la nomo de ĉiu kandidato, ordigita laŭ la ĉefa nomo skribita nacilingve per latinaj literoj.</li>
-			<li>Partoprenantoj voĉdonas por kandidato metante ikson apud ties nomo, Ĝis maksimumo de “m” kandidatoj. Oni neaparte indikas tiujn kandidatojn, kiujn oni ne elektis. Estas nevalidaj tiuj balotiloj kiuj havas pli ol “m” iksoj.</li>
-			<li>Estas konsiderataj elektitaj tiuj “m” kandidatoj kiuj havas plej multe da voĉoj, kondiĉe ke ili ankaŭ ricevis porajn voĉojn de almenaŭ plejmulto de la validaj balotiloj.</li>
-			<li>Okaze de egaleco inter kandidatoj, decidas la Kunsidestro.</li>
-			<li>Okaze ke post la baloto ne estus elektitaj sufiĉe da homoj por plenigi la postenojn difinitajn en la artikolo 13.(3) de la Statuto, oni remalfermas kandidatiĝojn surloke por la vakantaj oficoj. Oni denove voĉdonu laŭ la proceduro priskribita en la artikolo 14.7 aŭ 14.8, depende de la nombro de la novaj kandidatoj.</li>
-			<li>Post dua sinsekva baloto laŭ la artikolo 14.7.E sen sukcesa elekto de homo(j) por ofico(j), oni sekvu proceduron laŭ la artikolo 14.9 de la Reglamento.</li>
-		</ol>
-	</li>
-	<li>
-		Se estas pli ol “2m” da kandidatoj:
-		<ol type="A">
-			<li>Oni faras balotilon kun la nomo de ĉiu kandidato, ordigita alfabete laŭ la ĉefa nomo skribita nacilingve per latinaj literoj.</li>
-			<li>Partoprenantoj voĉdonas por kandidato metante ikson apud ties nomo, ĝis maksimumo de “2m” kandidatoj. Oni ne aparte indikas tiujn kandidatojn, kiujn oni ne volas elekti. Estas nevalidaj tiuj balotiloj kiuj havas pli ol “2m” iksojn.</li>
-			<li>Estas konsiderataj elektitaj tiuj “m” kandidatoj kiuj havas plej multe da voĉoj, kondiĉe ke ili ankaŭ ricevis porajn voĉojn de almenaŭ plejmulto de la validaj balotiloj.</li>
-			<li>Se la nombro de elektitaj kandidatoj n estas nula aŭ malpli granda ol “m”, tiuj “2(m-n)” kandidatoj, kiuj havas plej da voĉoj iras al dua voĉdono, organizita laŭ la proceduro priskribita en artikolo 14.7 de la Reglamento.</li>
-			<li>Okaze de egaleco de voĉoj inter kandidatoj, decidas la Kunsidestro.</li>
-		</ol>
-	</li>
-	<li>
-		Se ne sukcesis du sinsekvaj balotoj laŭ la artikolo 14.7:
+		Se post du provoj elektiĝis neniu kandidato en voĉdonado por Prezidanto, Kasisto aŭ Ĝenerala Sekretario:
 		<ol type="A">
 			<li>Oni okazigas voĉdonadon en kiu la Komitato rajtas voĉdoni por iu ajn Individua Membro de TEJO;</li>
 			<li>Estas validaj voĉdonoj kie la nomo estas skribita nekomplete, esperantige, uze de kromnomo, kun nekutima latinliterigo aŭ ortografia eraro, kondiĉe ke tutkonsente laŭ la Voĉdona Komisiono la volo de la elektanto estas klara preter ĉiu nepreteksta dubo kaj ne estas risko de konfuzo kun alia membro de TEJO;</li>
-			<li>Tiuj “2m” kandidatoj kiuj havas plej multe da voĉoj iras al la dua voĉdono, organizita laŭ la proceduro priskribita en la artikolo 14.7 de la Reglamento.</li>
-			<li>Okaze de egaleco de voĉoj inter kandidatoj, decidas la estraranoj kiuj ĉeestas, krom la Kunsidestro. Se denove estas egaleco de voĉoj, decidas Kunsidestro.</li>
+			<li>La kandidatoj kiuj ricevas pli ol unu voĉo iras al dua voĉdono laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj. Se malpli ol 2 kandidatoj ricevis pli ol unu voĉo, ĉiuj voĉdonitaj kandidatoj iras al la dua rondo.</li>
 			<li>Elektita kandidato kiu ne mem kandidatiĝis devas esti tuj kontaktita persone, telefone aŭ rete de la Kunsidestro por peti lian akcepton de la ofico.</li>
 			<li>Okaze ke la elektito malakceptas aŭ dum akceptebla tempokvanto la Kunsidestro ne sukcesas kontaktiĝi kun li, la Komitato komencas novan baloton laŭ la sama proceduro. La eblo akcepti la postenon ĉesas kiam alia elektita kandidato akceptas ĝin.</li>
 		</ol>
 	</li>
 </ol>
+
+## 15. Elekto de Komitatanoj Ĉ
+1. Elekto de Komitatanoj Ĉ povas okazi per reta voĉdono aŭ dum komitatkunveno.
+2. En ambaŭ okazoj estu almenaŭ 15 tagoj inter la anonco kaj la voĉdonado, dum kiu tempo eblas kandidatiĝi.
+3. La voĉdonado sekvas la proceduron en artikolo 3 de la Reglamento pri voĉdonadoj.
+4. Se elektiĝas malpli da Komitatanoj Ĉ ol permesas la reglamentoj kaj Statuto, ne bezonas okazi nova voĉdono.

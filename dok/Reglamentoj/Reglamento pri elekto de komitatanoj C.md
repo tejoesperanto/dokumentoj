@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri elekto de komitatanoj C
-version: 2019-04-10
-version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
+version: 2019-05-25
+version_comment: Akceptita post reta voĉdono pri la Reglamento pri voĉdonadoj
 ---
 
 Reglamento pri elekto de komitatanoj C
@@ -31,6 +31,6 @@ Reglamento pri elekto de komitatanoj C
 			<li>La provizoraj rezultoj ĝis la fino de la voĉdonperiodo estas sekretaj.</li>
 		</ol>
 	</li>
-	<li>La kandidato, kiuj ricevas plej multe da voĉoj, estas elektita. En okazo de ununura kandidato, tiu devas ricevi almenaŭ duonon de la esprimitaj voĉoj. En okazo de voĉegaleco decidas, se necese, loto. Oni informas pri la rezulto en la oficiala gazeto kaj en mesaĝo al la Junaj Amikoj de Esperanto</li>
+	<li>La voĉdono sekvas la proceduron en artikolo 2 de la Reglamento pri voĉdonadoj. Oni informas pri la rezulto en la oficiala gazeto kaj en mesaĝo al la Junaj Amikoj de Esperanto</li>
 	<li>La mesaĝoj al la Junaj Amikoj de Esperanto povas esti senditaj aparte aŭ kadre de bulteno regule sendata al ĝi.</li>
 </ol>
