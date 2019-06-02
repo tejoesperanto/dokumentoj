@@ -20,14 +20,22 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20estraranoj.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri elekto de komitatanoj B
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20B.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/1f2e052834dbec27c4b01ced5eccff18c621e9c0/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20B.md), valida ekde la 25-a de majo 2019. (aldonita la 2-an de junio 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+
+  [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/1f2e052834dbec27c4b01ced5eccff18c621e9c0?diff=unified&short_path=d94a596#diff-d94a5961b247f721217712270c0fed7d)
+
+- [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20B.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
   [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/cb6e0e5a3c6131c5ab749db372f9640ea88ea704?diff=unified&short_path=d94a596#diff-d94a5961b247f721217712270c0fed7d)
 
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20B.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri elekto de komitatanoj C
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20C.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/1f2e052834dbec27c4b01ced5eccff18c621e9c0/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20C.md), valida ekde la 25-a de majo 2019. (aldonita la 2-an de junio 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+
+  [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/1f2e052834dbec27c4b01ced5eccff18c621e9c0?diff=unified&short_path=d526d51#diff-d526d51d82cb92528c1741d2ff4f1daf)
+
+- [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20elekto%20de%20komitatanoj%20C.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
   [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/cb6e0e5a3c6131c5ab749db372f9640ea88ea704?diff=unified&short_path=d526d51#diff-d526d51d82cb92528c1741d2ff4f1daf)
 
@@ -55,15 +63,22 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20Internacia%20Junulara%20Kongreso.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la Komitato
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/1f2e052834dbec27c4b01ced5eccff18c621e9c0/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md), valida ekde la 25-a de majo 2019. (aldonita la 2-an de junio 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+
+  [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/1f2e052834dbec27c4b01ced5eccff18c621e9c0?diff=unified&short_path=4309c43#diff-4309c43ef523ce945555dc4d8557a5c4)
+
+- [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
   [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/cb6e0e5a3c6131c5ab749db372f9640ea88ea704?diff=unified&short_path=4309c43#diff-4309c43ef523ce945555dc4d8557a5c4)
 
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/ddd9d5e4fd09567c756209f57a847b0b42d534a4/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/cb6e0e5a3c6131c5ab749db372f9640ea88ea704/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/0dd5d0db98d4fa9c8386a6acbf52f522c9a3fe81/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md), valida ekde la 10-a de aprilo 2019. (aldonita la 11-an de aprilo 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
   [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/cb6e0e5a3c6131c5ab749db372f9640ea88ea704?diff=unified&short_path=54fb674#diff-54fb674b2291df5581e13bab23af5df7)
   
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/edc7818943eb0da0551714c850fd0b510407bbe5/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
+
+### Reglamento pri voĉdonadoj
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/1f2e052834dbec27c4b01ced5eccff18c621e9c0/dok/Reglamentoj/Reglamento%20pri%20voĉdonadoj.md), valida ekde la 25-a de majo 2019. (aldonita la 2-an de junio 2019 de [Mia Nordentoft](https://github.com/miestasmia))
