@@ -30,7 +30,7 @@ En tiu ĉi Reglamento:
 	<li>
 		“Partopreno” en decido signifas:
 		<ol type="A">
-			<li>En kunveno, ĉeeston de komitatano konfirmitan per subskribo; okaze de anstataŭoj koncerna persono rajtas maksimume tri foje partopreni en la sama decido;</li>
+			<li>En kunveno, ĉeeston de komitatano konfirmitan per subskribo; okaze de anstataŭoj koncerna persono rajtas maksimume dufoje partopreni en la sama decido;</li>
 			<li>En poŝta voĉdono, ĝustatempan alvenon de koncerna komitata voĉdonilo al la Ĝenerala Sekretario;</li>
 			<li>En reta voĉdono, retan esprimon de la elekto kadre de la voĉdonsistemo fare de la komitatano.</li>
 		</ol>
@@ -106,7 +106,7 @@ En tiu ĉi Reglamento:
 
 ## 7. Dumkunvenaj labororganoj
 1. La dumkunvenaj labororganoj de la Komitato estas la Propona Komisiono kaj la Voĉdona Komisiono. Ĉiu labororgano havas almenaŭ du membrojn.
-2. Por ĉiu labororgano la Kunsidestro surloke petas kandidatiĝojn, kaj la komitato grupe akceptas aŭ malakceptas la kandidatojn, krom se du komitatanoj postulas sekretan voĉdonon laŭ artikolo 13 de la Reglamento pri la Komitato.
+2. Por ĉiu labororgano la Kunsidestro surloke petas kandidatiĝojn, kaj la komitato grupe akceptas aŭ malakceptas la kandidatojn, krom se du komitatanoj postulas sekretan voĉdonon laŭ artikolo 14 de la Reglamento pri la Komitato.
 3. La Propona Komisiono laŭpete helpas komitatanojn pretigi proponojn por la Komitato. Antaŭ la elektoj ĝi ankaŭ prezentas al la Komitato la nomojn de ĉiuj kandidatoj. La Komisiono povas rekomendi kandidatojn kiuj, laŭ la takso de la Komisiono, bone plenumus la respondecojn de la koncernaj oficoj se ili estus elektitaj. Membroj de la Komisiono ne kandidatas.
 4. La Voĉdona Komisiono kontrolas la komitatanecon de ĉiu homo, kiu deziras partopreni la kunvenon kiel komitatano, kontrolas la kvorumon kaj laŭnecese nombras voĉojn dum la kunveno kaj raportas al la Komitato. Membroj de la Komisiono ne kandidatas.
 
@@ -126,7 +126,6 @@ En tiu ĉi Reglamento:
 				Proponoj pri:
 				<ul>
 					<li>Voĉdona Komisiono</li>
-					<li>Mandata Komisiono</li>
 					<li>Propona Komisiono</li>
 				</ul>
 			</li>
@@ -166,7 +165,7 @@ En tiu ĉi Reglamento:
 ## 12. Voĉdono en kunveno
 <ol>
 	<li>Post fermo de la diskuto pri iu propono, oni voĉdonas pri tiu.</li>
-	<li>Gvidas la voĉdonon la Kunsidestro. Krom laŭ la proceduro priskribita en artikolo 12.4 de la Reglamento, la Kunsidestro ne rajtas voĉdoni.</li>
+	<li>Gvidas la voĉdonon la Kunsidestro. Krom laŭ la proceduro priskribita en artikolo 12.4 de la Reglamento, la Kunsidestro ne rajtas voĉdoni. La Voĉdona Komsiono povas deklari, ke estas evidenta plimulto pore aŭ kontraŭe, krom se iu ajn partoprenanto kontraŭas tion.</li>
 	<li>Pri ĉiu propono partoprenanto aŭ voĉdonas aŭ sindetenas. La Voĉdona Komisiono nombras kiom da partoprenantoj voĉdonas por, kaj kiom voĉdonas kontraŭ. La protokolanto kalkulas kiom da partoprenantoj sindetenas.</li>
 	<li>Se plejmulto de la partoprenantoj ne sindetenas, tiu el la poro kaj la kontraŭo kiu havas la plimulton venkas. Okaze de egaleco, decidas la Kunsidestro.</li>
 	<li>
@@ -177,11 +176,11 @@ En tiu ĉi Reglamento:
 		</ol>
 	</li>
 	<li>Krom laŭ la proceduro priskribita en artikolo 12.5 de la Reglamento, oni voĉdonas nur unu fojon pri iu propono dum unu kunveno.</li>
-	<li>En artikolo 13 de la Reglamento, “propono” signifas ankaŭ amendo-proponojn.</li>
+	<li>En artikolo 12 de la Reglamento, “propono” signifas ankaŭ amendo-proponojn.</li>
 </ol>
 
 ## 13. Sekreta voĉdono
-1. Ĉiu voĉdono pri elekto de estrarano, komitatanoj Ĉ, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 13 de la Reglamento.
+1. Ĉiu voĉdono pri elekto de estrarano, komitatanoj Ĉ, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 14 de la Reglamento.
 2. Sekreta voĉdono okazas ankaŭ por decido pri Honora Membro, Honora Prezidanto, akcepto aŭ eksigo de landa aŭ faka sekcio kaj krome kiam ajn du komitatanoj tion postulas. Tiam sekreta voĉdono okazas laŭ la proceduro priskribita en la artikolo 13 de la Reglamento pri la Komitato.
 3. Okaze de sekreta voĉdono, gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono.
 
@@ -189,8 +188,8 @@ En tiu ĉi Reglamento:
 <ol>
 	<li>Ĉiu elekto por la oficoj menciitaj en artikolo 13.1 de la Reglamento okazas laŭ la proceduro priskribita en artikolo 14 de la Reglamento.</li>
 	<li>Gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono.</li>
-	<li>Krom laŭ la proceduro priskribita en artikoloj 14.7.D kaj 14.8.D de la Reglamento, la Kunsidestro ne rajtas voĉdoni.</li>
-	<li>La tenantoj de la oficoj en la Estraro de TEJO, nome la Prezidanto, la Vicprezidanto(j), la Ĝenerala Sekretario kaj la Kasisto, devas esti elektitaj al specifa ofico. Tio signifas, ke devas okazi aparta elekto por ĉiu el tiuj oficoj. Oni voĉdonas unue por la Prezidanto, due por la Vicprezidanto(j), trie por la Ĝenerala Sekretario kaj kvare por la Kasisto.</li>
+	<li>Krom laŭ la proceduro priskribita en artikoloj 14.7.D kaj 14.8.E kaj 14.0.E de la Reglamento, la Kunsidestro ne rajtas voĉdoni.</li>
+	<li>La tenantoj de la oficoj en la Estraro de TEJO, nome la Prezidanto, la Vicprezidanto(j), la Ĝenerala Sekretario kaj la Kasisto, devas esti elektitaj al specifa ofico. Tio signifas, ke devas okazi aparta elekto por ĉiu el tiuj oficoj. Oni voĉdonas unue por la Prezidanto, due por la Kasisto, trie por la Ĝenerala Sekretario kaj kvare por la Vicprezidanto(j).</li>
 	<li>Kiam la nombro de elekteblaj kandidatoj ne estas priskribita de la Statuto aŭ reglamentoj, la Komitato devas unue decidi kiom da estraranoj aŭ ofico-tenantoj ĝi maksimume elektos, antaŭ ol ĝi elektas. Pro la proceduro priskribita en artikolo 14.7 de la Reglamento, povas esti elektitaj malpli da estraranoj aŭ ofico-tenantoj ol la maksimumo decidita de la Komitato, sed ne povas esti elektitaj pli da estraranoj aŭ ofico-tenantoj ol tiu maksimumo.</li>
 	<li>En artikoloj 14.7 kaj 14.8 de la Reglamento la simbolo “m” signifas la maksimuman nombron de elekteblaj kandidatoj, kaj la simbolo “2m” signifas duoblon de la maksimuma nombro de elekteblaj kandidatoj.</li>
 	<li>
