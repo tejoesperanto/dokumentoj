@@ -179,7 +179,7 @@ En tiu ĉi Reglamento:
 </ol>
 
 ## 13. Sekreta voĉdono
-1. Ĉiu voĉdono pri nombro da elekteblaj kandidatoj, elekto de estrarano, komitatanoj Ĉ, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne pri membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj.
+1. Ĉiu voĉdono pri nombro da elekteblaj kandidatoj, elekto de estrarano, komisiitoj kaj komitatanoj A de UEA por la Organizo (sed ne pri membroj de la labororganoj) estas farita sekrete laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj.
 2. Sekreta voĉdono okazas ankaŭ por decido pri Honora Membro, Honora Prezidanto, akcepto aŭ eksigo de landa aŭ faka sekcio kaj krome kiam ajn du komitatanoj tion postulas. Tiam sekreta voĉdono okazas laŭ la proceduro priskribita en la artikolo 13 de la Reglamento pri la Komitato.
 3. Okaze de sekreta voĉdono, gvidas la voĉdonadon kaj nombras la voĉojn la Voĉdona Komisiono. Ĝi zorgas, ke ĉiu partoprenanto voĉdonas per la sama metodo, kaj ke faritaj voĉdonoj ne estas poste ligeblaj al partoprenantoj.
 
