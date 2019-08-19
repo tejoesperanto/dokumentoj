@@ -1,9 +1,9 @@
 ---
 title: Statuto de Tutmonda Esperantista Junulara Organizo
-version: 2016-07-29
-version_comment: IJK 2016 en Vroclavo, aprobita de UEA en Nitro dum UK 2016
+version: 2016-07-31
+version_comment: Akceptita dum la 4-a sesio de la komitatkunsido de IJK 2019 en Slovakio
 ---
-La statuto de TEJO estas la fundamenta regularo de la organizo. Ĝi estis aprobita de la Komitato de TEJO dum la komitatkunsido en Vroclavo je la 19a de julio 2016 kaj validas ekde aprobo fare de la Komitato de UEA en Nitra la 29an de julio 2016.
+La statuto de TEJO estas la fundamenta regularo de la organizo. Ĝi estis aprobita de la Komitato de TEJO dum la komitatkunsido en Liptovský Hrádok je la 31a de julio 2019.
 
 STATUTO DE TUTMONDA ESPERANTISTA JUNULARA ORGANIZO
 ==================================================
@@ -31,8 +31,8 @@ La celoj de TEJO estas:
 	<li>disvastigi la uzadon de la internacia lingvo Esperanto;</li>
 	<li>kontribui al la evoluo de la Esperanta kulturo;</li>
 	<li>agadi por la solvo de la lingva problemo en internaciaj rilatoj kaj faciligi la internacian komunikadon;</li>
-	<li>plifaciligi la ĉiuspecajn spiritajn kaj materiajn rilatojn inter la homoj, sendepende de diferencoj rilate al nacieco, raso, sekso, religio, politiko aŭ lingvo;</li>
-	<li>helpi la junularon havi aktivan rolon en konstruo de socio inkluziva, internacia, interkompreniĝa kaj rajtrespekta;</li>
+	<li>plifaciligi la ĉiuspecajn spiritajn kaj materiajn rilatojn inter la homoj, sendepende de diferencoj rilate al nacieco, raso, sekso, genro, genra orientiĝo, religio, politiko aŭ lingvo;</li>
+	<li>helpi la junularon havi aktivan rolon en konstruo de socio daŭripova, inkluziva, internacia, interkompreniĝa kaj rajtrespekta;</li>
 	<li>kreskigi inter siaj membroj fortikan senton de solidareco, disvolvante ĉe ili la komprenon kaj estimon por aliaj popoloj;</li>
 	<li>plibonigi la konojn kaj organizajn kapablojn de siaj aktivuloj kaj instigi ilian kulturan evoluon; kaj</li>
 	<li>liveradi junajn fortojn al la Esperanta movado.</li>
@@ -57,7 +57,7 @@ La celoj de TEJO estas:
 
 **5. Neŭtraleco**
 
-1. TEJO kontraŭas diskriminacion rilate al nacieco, raso, sekso, seksa orientiĝo, handikapeco, religio, politiko, socia deveno kaj lingvo.
+1. TEJO kontraŭas diskriminacion rilate al nacieco, raso, sekso, genro, genra orientiĝo, handikapeco, religio, politiko, socia deveno kaj lingvo.
 2. TEJO estas sendependa de ĉiu ajn partio.
 3. TEJO estas neŭtrala pri aferoj nerilataj al ĝiaj celoj.
 
@@ -66,8 +66,9 @@ La celoj de TEJO estas:
 Por la agado de TEJO esencaj kondiĉoj estas:
 
 <ol type="i">
-	<li>bonaj internaciaj rilatoj; kaj</li>
-	<li>respekto de la homaj rajtoj tiaj, kiaj ili estas difinitaj en la Universala Deklaracio de Homaj Rajtoj kaj aliaj internacie rekonataj instrumentoj.</li>
+	<li>bonaj internaciaj rilatoj;</li>
+	<li>respekto de la homaj rajtoj tiaj, kiaj ili estas difinitaj en la Universala Deklaracio de Homaj Rajtoj kaj aliaj internacie rekonataj instrumentoj; kaj</li>
+	<li>daŭripova evoluo laŭ la difinoj de Unuiĝintaj Nacioj kaj aliaj internacie rekonataj instrumentoj.</li>
 </ol>
 
 **7. Lingvo**
@@ -93,7 +94,7 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 			<li>ĝi subtenas la celojn de TEJO;</li>
 			<li>ĝi estas aŭ aparta asocio aŭ integra parto de landa asocio aliĝinta al UEA;</li>
 			<li>ĝi estas laŭorde organizita;</li>
-			<li>ĝi estas vaste malfermita al junuloj, sen ekskluzivoj pro nacieco, enlanda loĝloko, raso, sekso, seksa orientiĝo, handikapeco, religio, politiko, socia deveno aŭ lingvo;</li>
+			<li>ĝi estas vaste malfermita al junuloj, sen ekskluzivoj pro nacieco, enlanda loĝloko, raso, sekso, genro, genra orientiĝo, handikapeco, religio, politiko, socia deveno aŭ lingvo;</li>
 			<li>membreco en ĝi estas libervola; kaj</li>
 			<li>ĝi estas demokratie gvidata.</li>
 			<li>havas almenaŭ 3 kalkuleblajn membrojn</li>
@@ -113,7 +114,7 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 			<li>ĝi estas simpatia al la celoj de TEJO;</li>
 			<li>ĝi estas aŭ aparta asocio aŭ integra parto de faka asocio aliĝinta al UEA;</li>
 			<li>ĝi estas laŭorde organizita;</li>
-			<li>ĝi estas vaste malfermita al junuloj, sen ekskluzivoj pro nacieco, loĝloko, raso, sekso, seksa orientiĝo, handikapeco, religio, politiko, socia deveno aŭ lingvo;</li>
+			<li>ĝi estas vaste malfermita al junuloj, sen ekskluzivoj pro nacieco, loĝloko, raso, sekso, genro, genra orientiĝo, handikapeco, religio, politiko, socia deveno aŭ lingvo;</li>
 			<li>membreco en ĝi estas libervola; kaj</li>
 			<li>ĝi estas demokratie gvidata.</li>
 			<li>havas almenaŭ 3 kalkuleblajn membrojn</li>
@@ -159,7 +160,8 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 						estas membroj de la unuopaj landaj aŭ fakaj asocioj por kiuj:
 						<ol type="A">
 							<li>la koncerna landa aŭ faka sekcio ne pagas kotizon al TEJO</li>
-							<li>la koncerna landa aŭ faka sekcio ne ricevas kotizon.</li>
+							<li>la koncerna landa aŭ faka sekcio ne ricevas kotizon; aŭ</li>
+							<li>estis individua membro, sed la membreco eksvalidiĝis pro nepagado de kotizo sen eksplicita peto je eksmembriĝo</li>
 						</ol>
 					</li>
 				</ol>
@@ -208,7 +210,7 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 		</ol>
 	</li>
 	<li>La estraro konsistas el maksimume 9 estraranoj, inter kiuj estas la Prezidanto, la Ĝenerala Sekretario, la Kasisto kaj unu ĝis tri Viĉprezidantoj.</li>
-	<li>La estraranoj estas elektitaj por difinita mandato (aŭ malelektitaj) de la komitatanoj A, B, C kaj Ĉ. Detalan proceduron difinas la Ĝenerala Reglamento.</li>
+	<li>La estraranoj estas elektitaj por difinita mandato (aŭ malelektitaj) de la komitatanoj A, B, C kaj Ĉ.</li>
 	<li>La anoj de la ĉefaj organoj aĝas almenaŭ 18 jarojn en la tago en kiu ili estas nomumitaj aŭ elektitaj.</li>
 	<li>Neniu rajtas esti nomumita aŭ elektita al la ĉefaj organoj, se tiu fariĝos 36-jaraĝa (aŭ pli) dum sia mandato.</li>
 	<li>Prezidanto ne rajtas ofici dum pli ol du sinsekvaj oficperiodoj kaj je la fino de la dua oficperiodo devas retiriĝi el la prezidanteco por almenaŭ unu oficperiodo.</li>
@@ -216,10 +218,11 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 	<li>
 		Estraraneco povas finiĝi en iu ajn momento:
 		<ol type="i">
-			<li>per eksiĝo, skribe komunikata al la Prezidanto, Ĝenerala Sekretario, aŭ Ĝenerala Direktoro;</li>
+			<li>per eksiĝo, skribe komunikata al la Prezidanto aŭ la Ĝenerala Sekretario;</li>
 			<li>per eksigo fare de la Komitato de TEJO.</li>
 		</ol>
 	</li>
+	<li>La Komitato difinas per la Ĝenerala Reglamento kaj aliaj reglamentoj la detalan proceduron pri elekto de la Estraro kaj la Komitato kaj aliajn regulojn pri la funkciado de TEJO.</li>
 </ol>
 
 **14. Reprezentado**
@@ -233,7 +236,6 @@ La sola oficiala lingvo de TEJO estas la internacia lingvo Esperanto tia, kia ĝ
 1. La asembleo (ĝenerala membrokunveno) de TEJO estas la kunsido de la Komitato.
 2. La kunsidon de la Komitato kunvokas skribe la Ĝenerala Sekretario de TEJO almenaŭ 28 tagojn antaŭ la komenco de la kunsido.
 3. Ĉiu membro de TEJO elektas sian reprezentanton en la Komitato laŭ demokratia maniero.
-4. La Reglamento de TEJO difinas la proceduron de la elekto de la Komitato.
 
 ## ĈAPITRO 6 <br> STATUTŜANĜOJ
 

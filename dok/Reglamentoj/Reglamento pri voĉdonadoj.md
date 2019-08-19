@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri voĉdonadoj
-version: 2019-05-25
-version_comment: Akceptita post reta voĉdono pri la Reglamento pri voĉdonadoj
+version: 2019-07-30
+version_comment: Akceptita dum la 2-a sesio de IJK 2019 en Slovakio
 ---
 
 Reglamento pri voĉdonadoj
@@ -58,7 +58,7 @@ Reglamento pri voĉdonadoj
 2. La Voĉdona Komisiono nombras kiom da komitatanoj voĉdonas pore, kiom voĉdonas kontraŭe kaj kiom sindetenas.
 3. La Voĉdona Komisiono povas deklari, ke estas evidenta plimulto pore aŭ kontraŭe, krom se iu ajn komitatano kontraŭas tion.
 4. Kaze je sekreta voĉdono, oni voĉdonas sur blankaj paperpecoj subskribitaj de la Voĉdona Komisiono. 
-5. En komitataj voĉdonoj pri personoj (krom en la proceduro priskribita en la artikolo 14.3.2 de la Reglamento pri la Komitato) la Voĉdona Komisiono preparas balotilon kun la nomo de ĉiu kandidato, ordigita laŭ la ĉefa nomo skribita nacilingve per latinaj literoj. La voĉdonanto voĉdonas markante numeron apud la specifa homo. 
+5. En komitataj voĉdonoj pri personoj (krom en la proceduro priskribita en la artikolo 14.4.A de la Reglamento pri la Komitato) la Voĉdona Komisiono preparas balotilon kun la nomo de ĉiu kandidato, ordigita laŭ la ĉefa nomo skribita nacilingve per latinaj literoj. La voĉdonanto voĉdonas markante numeron apud la specifa homo. 
 6. Kaze je preferorda voĉdonado, laŭ artikolo 2 aŭ 3, la numero 1 markas la plej preferatan.
 7. La Voĉdona Komisiono rajtas utiligi komputilan helpon, aprobitan de la Komitato, en la voĉdonkalkulado.
 

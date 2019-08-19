@@ -1,14 +1,14 @@
 ---
 title: Reglamento pri elekto de estraranoj
-version: 2019-04-10
-version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
+version: 2019-07-31
+version_comment: Akceptita dum la 4-a sesio de la komitatkunsido dum IJK 2019 en Slovakio
 ---
 
 Reglamento pri elekto de estraranoj
 ===================================
 
 ## 1. Starigo de elekta komisiono
-1. Tuj post elekto de nova estraro, la komitato nomumas la membrojn de Elekta Komisiono.
+1. Tuj post elekto de nova estraro, la komitato nomumas la membrojn de la Elekta Komisiono.
 2. Okaze de malmembriĝo de membro de la komisiono, la estraro rajtas nomumi novan membron. La Komitato validigas tiun ŝanĝon per reta voĉdono.
 3. Rajtas membri en la komisiono:
    - Komitatanoj de TEJO
@@ -41,7 +41,7 @@ En okazo de alelekto por aktuale oficanta Estraro, la procezo estas senprokrasta
 
 1. Plej laste la 20-an de marto de la jaro de la elektoj la Komisiono sendas al la Komitato raporton pri sia agado, kiu enhavas minimume informojn pri tio, kie estis publikigita anonco pri serĉado de kandidatoj.
 2. Plej laste la 30-an de aprilo de la elektojaro la Komisiono sendas al la Komitato raporton pri sia agado, kiu enhavas minimume informojn pri tio, kie estis publikigita anonco pri serĉado de kandidatoj kaj pri nombro de kontaktitaj kandidatoj.
-3. Kandidatoj sin anoncu ĉe la Centra Oficejo aŭ ĉe la Komisiono plej laste la 30-an de junio de la elektojaro. Nova kandidatiĝo konsistas minimume el vivresumo kaj motiviga letero.
+3. Kandidatoj sin anoncu ĉe la Centra Oficejo aŭ ĉe la Komisiono plej laste la 30-an de junio de la elektojaro. Nova kandidatiĝo konsistas minimume el vivresumo, motiviga letero kaj rekomendletero de individua membro de TEJO. Rekandidatiĝo de estrarano konsistas minimume el vivresumo kaj motiviga letero.
 4. Plej laste la 5-an de julio de la elektojaro la Komisiono sendas al la Komitato raporton pri sia agado, kiu enhavas minimume informojn pri nombro de kandidatoj, kiuj sendis validajn kandidatiĝojn laŭ la punkto 3.
 5. La Komisiono rajtas plu akcepti novajn kandidatiĝojn post la limdato. Informojn pri la risko, ke iu el la postenoj restos vaka kaj pri daŭra akceptado de kandidatiĝoj devas enhavi la raporto menciita en la punkto 4.
 6. Plej laste 15 tagojn antaŭ komenco de la komitatkunveno la Komisiono sendas al la Komitato finan raporton, en kiu ĝi rekomendas al la Komitato kandidatojn al la nova Estraro. La raporto devas minimume enhavi la rekomenditajn kandidatojn kaj proponita(j)n teamo(j)n kaj alkroĉite la kompletajn kandidatiĝojn de ĉiuj kandidatoj kaj informon pri liverodatoj de kandidatiĝoj alvenintaj post la 30-a de junio.

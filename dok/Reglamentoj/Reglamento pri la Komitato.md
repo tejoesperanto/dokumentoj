@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri la Komitato
-version: 2019-05-25
-version_comment: Akceptita post reta voĉdono pri la Reglamento pri voĉdonadoj
+version: 2019-07-31
+version_comment: Akceptita dum la 4-a sesio de la komitatkunsido de IJK 2019 en Slovakio
 ---
 
 Reglamento pri la Komitato
@@ -135,10 +135,11 @@ En tiu ĉi Reglamento:
 	<li>La tagordpropono estas prezentita al la kunveno je la malfermo, kaj la kunveno laboras laŭ ĝi ĝis inkluzive ero 4.</li>
 	<li>La kunveno tiam amendas la tagordproponon eventuale aldonante, modifante aŭ nuligante erojn ĝis la akcepto de la tuta propono.</li>
 	<li>Post tiu akcepto eblas amendi la tagordon nur per dutriona plejmulto.</li>
+	<li>Por alpreni decidojn dum la trakto de la tagordero “Ceteraĵoj” validas la samaj reguloj kiel priskribite en la artikolo 9.5 de la Reglamento pri la Komitato.</li>
 </ol>
 
 ## 10. Prezidado kaj protokolado
-1. La Komitaton prezidas Kunsidestro elektata de la Komitato mem. Ordinare la Estraro proponas unu aŭ pli da eblaj kunsidestroj plejmalfrue unu monaton antaŭ la Komitatkunveno kaj la Komitato elektas per reta voĉdono. Prefere la Kunsidestro ne estu Komitatano.
+1. La Komitaton prezidas Kunsidestro elektata de la Komitato mem. Ordinare la Estraro proponas unu aŭ pli da eblaj kunsidestroj plejmalfrue unu monaton antaŭ la Komitatkunveno kaj la Komitato elektas per reta voĉdono. La Kunsidestro ne estu Komitatano.
 2. Respondecas pri la protokolado de la kunveno de la Komitato la Ĝenerala Sekretario. La Ĝenerala Sekretario povas laŭbezone nomumi protokolantojn.
 3. La Ĝenerala Sekretario sendas unu kopion de la protokolo al ĉiu Komitatano, anstataŭanto, landa kaj faka sekcio, ene de 30 tagoj.
 4. La protokolo ekvalidas 15 tagojn post ĝia dissendo se en tiu periodo neniu ĉeestinta Komitatano aŭ anstataŭanto postulas retan voĉdonon, proponante specifan ĝustigon. La valida protokolo estas la unusola aŭtoritata dokumento pri la kunveno.
@@ -187,14 +188,15 @@ En tiu ĉi Reglamento:
 <ol>
 	<li>La tenantoj de la oficoj en la Estraro de TEJO, nome la Prezidanto, la Vicprezidanto(j), la Ĝenerala Sekretario kaj la Kasisto, devas esti elektitaj al specifa ofico. Tio signifas, ke devas okazi aparta elekto por ĉiu el tiuj oficoj. Oni voĉdonas unue por la Prezidanto, due por la Kasisto, trie por la Ĝenerala Sekretario kaj kvare por la Vicprezidanto(j).</li>
 	<li>Kiam la nombro de elekteblaj kandidatoj ne estas priskribita de la Statuto aŭ reglamentoj, la Komitato devas unue decidi kiom da estraranoj aŭ ofico-tenantoj ĝi maksimume elektos, antaŭ ol ĝi elektas. Pro la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj, povas esti elektitaj malpli da estraranoj aŭ ofico-tenantoj ol la maksimumo decidita de la Komitato, sed ne povas esti elektitaj pli da estraranoj aŭ ofico-tenantoj ol tiu maksimumo.</li>
+	<li>Se elektiĝis neniu kandidato en voĉdonado por Prezidanto, Vicprezidanto, Kasisto aŭ Ĝenerala Sekretario, oni remalfermas kandidatiĝojn dum la sesio.</li>
 	<li>
-		Se post du provoj elektiĝis neniu kandidato en voĉdonado por Prezidanto, Kasisto aŭ Ĝenerala Sekretario:
+		Se post du provoj elektiĝis neniu kandidato aŭ se entute mankas kandidatoj en voĉdonado por Prezidanto, Vicprezidanto, Kasisto aŭ Ĝenerala Sekretario:
 		<ol type="A">
 			<li>Oni okazigas voĉdonadon en kiu la Komitato rajtas voĉdoni por iu ajn Individua Membro de TEJO;</li>
 			<li>Estas validaj voĉdonoj kie la nomo estas skribita nekomplete, esperantige, uze de kromnomo, kun nekutima latinliterigo aŭ ortografia eraro, kondiĉe ke tutkonsente laŭ la Voĉdona Komisiono la volo de la elektanto estas klara preter ĉiu nepreteksta dubo kaj ne estas risko de konfuzo kun alia membro de TEJO;</li>
 			<li>La kandidatoj kiuj ricevas pli ol unu voĉo iras al dua voĉdono laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj. Se malpli ol 2 kandidatoj ricevis pli ol unu voĉo, ĉiuj voĉdonitaj kandidatoj iras al la dua rondo.</li>
 			<li>Elektita kandidato kiu ne mem kandidatiĝis devas esti tuj kontaktita persone, telefone aŭ rete de la Kunsidestro por peti lian akcepton de la ofico.</li>
-			<li>Okaze ke la elektito malakceptas aŭ dum akceptebla tempokvanto la Kunsidestro ne sukcesas kontaktiĝi kun li, la Komitato komencas novan baloton laŭ la sama proceduro. La eblo akcepti la postenon ĉesas kiam alia elektita kandidato akceptas ĝin.</li>
+			<li>Okaze ke la elektito malakceptas aŭ dum akceptebla tempokvanto la Kunsidestro ne sukcesas kontaktiĝi kun tiu, la Kunsidestro kontaktos la sekvan homon laŭ artikolo 2.13 de la Reglamen to pri voĉdonado; se ne plu estas elekteblaj voĉdonitoj, la Komitato komencas novan baloton laŭ la sama proceduro. La eblo akcepti la postenon ĉesas kiam alia elektita kandidato akceptas ĝin.</li>
 		</ol>
 	</li>
 </ol>
