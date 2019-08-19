@@ -13,7 +13,9 @@ if (!doc) {
 	console.error('eraro: mankas <dokumento>');
 	process.exit(1);
 }
-const docCssSafe = doc.replace(/\//g, '@');
+const docCssSafe = doc
+	.replace(/\//g, '@')
+	.replace(/\s/g, '_');
 
 const rootdir = path.join(__dirname, '../../')
 const docdir = path.join(rootdir, 'dok/');
