@@ -86,7 +86,7 @@ Tiu ĉi indekso donas superrigardon de ĉiuj versioj de gravaj dokumentoj de TEJ
 - [Antaŭa versio](https://github.com/tejoesperanto/dokumentoj/blob/ddd9d5e4fd09567c756209f57a847b0b42d534a4/dok/Reglamentoj/Reglamento%20pri%20la%20Komitato.md). (aldonita la 16-an de marto 2019 de [Mia Nordentoft](https://github.com/miestasmia))
 
 ### Reglamento pri la trejnistaro kaj la trejnadoj de TEJO
-- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/835a06d2a0f31f385916a98a593012581ae8a636/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md), valida ekde la 30-a de januaro 2020. (aldonita la 13-an de junio 2020 de [Mia Nordentoft](https://github.com/miestasmia))
+- [**Aktuala versio**](https://github.com/tejoesperanto/dokumentoj/blob/835a06d2a0f31f385916a98a593012581ae8a636/dok/Reglamentoj/Reglamento%20pri%20la%20trejnistaro%20kaj%20la%20trejnadoj%20de%20TEJO.md), valida ekde la 30-a de januaro 2020. (aldonita la 13-an de julio 2020 de [Mia Nordentoft](https://github.com/miestasmia))
 
   [[Kompari kun antaŭa versio]](https://github.com/tejoesperanto/dokumentoj/commit/835a06d2a0f31f385916a98a593012581ae8a636?short_path=54fb674#diff-54fb674b2291df5581e13bab23af5df7)
 
