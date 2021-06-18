@@ -120,12 +120,12 @@ La Komitato kontrolas la konsiston de la ĉefaj organoj okaze de ĉiu kunveno de
 1. La Estraro povas starigi komisionon por labori pri iu agadkampo de TEJO.
 2. Ĉiu komisiono havas respondeculon ene de la Estraro.
 3. Ĉiun komisionon kunordigas komisiito elektata de la Estraro. La Komitato povas, laŭ peto de almenaŭ du membroj de la komisiono, malvalidigi la elekton kaj taski al la Estraro elekton de alia komisiito.
-4. Komisiitoj devas esti rekonfirmitaj de la Estraro okaze de ĉiu kunveno de la Komitato.
+4. Komisiitoj devas esti rekonfirmitaj de la Estraro okaze de la ekfunkcio de la nova Estraro.
 5. La komisiito regule raportas al la Komitato pri la laboroj de la komisiono.
-6. Ĉiuj Individuaj Membroj de TEJO rajtas membriĝi en la komisionoj, pere de skriba peto al la koncerna komisiito.
+6. Ĉiuj Individuaj Membroj de TEJO rajtas membriĝi en la komisionoj.
 7. Neindividuaj membroj kaj nemembroj de TEJO, kiuj pro speciala kompetento povas grave kontribui al la laboro de la komisiono, rajtas membriĝi en la komisionoj post la aprobo de la koncerna komisiito aŭ de la Estraro.
 8. Komitatanoj je la elektiĝo rajtas elekti en kiuj komisionoj membri, sed ĉiu komitatano devas membri en almenaŭ unu komisiono.
-9. Membroj de la komisionoj devas esti rekonfirmitaj de la komisiito aŭ de la Estraro unu monaton antaŭ ĉiu kunveno de la Komitato.
+9. Membroj de la komisionoj devas esti rekonfirmitaj de la komisiito aŭ de la Estraro okaze de la ekfunkcio de la nova Estraro.
 10. Komisionoj laŭeble kunvenas okaze de ĉiu kunveno de la Komitato.
 
 ## 13. Interpretado
